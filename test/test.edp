@@ -1,0 +1,2 @@
+mesh Th = square(20,20);
+savemesh(Th,"square.mesh");
