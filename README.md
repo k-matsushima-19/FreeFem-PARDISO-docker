@@ -7,7 +7,7 @@ docker build . -t freefem-pardiso
 ```
 
 ## Run
-Example FreeFem code:
+Example FreeFem code (/path/to/dir/test.edp):
 ```/path/to/dir/test.edp
 mesh Th = square(20,20);
 savemesh(Th,"square.mesh");
